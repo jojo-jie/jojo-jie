@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+.env
+go.sum
+vendor/
+logs/
+tmp/
+docs/
